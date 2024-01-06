@@ -212,7 +212,7 @@
   }
   /*-- About --*/
   .about-area.two .about-img img:nth-child(1) {
-    max-width: 100%;
+    max-width: 0%;
     margin-bottom: 30px;
   }
   .about-area.two .about-img img:nth-child(2) {
